@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/StackOverflow-Survey-2020/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="image/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">StackOverflow-Survey-2020 -  Women Participation in Software development</h3>
